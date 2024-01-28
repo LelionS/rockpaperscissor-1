@@ -9,7 +9,7 @@ comp_choice = t[randint(0,2)]
 player_choice = 1
 computer_win=0
 player_win=0
-
+#loop
 while player_choice == 1:
 #player choses its option
     player_choice = input("Chose Rock, Paper, Scissors?")
